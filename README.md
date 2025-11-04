@@ -79,7 +79,7 @@ Male, 25 years, 175 cm, 70 kg, 30 mins, 110 bpm, 98.5°F	220.4 kcal
 
 👤 Author
 
-Divya Prakash
+Divya Prakash 
 
 📧 [raydivyaprakash@gmail.com]
 
