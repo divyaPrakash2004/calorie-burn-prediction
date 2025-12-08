@@ -49,7 +49,7 @@ Steps:
 
 Clone this repository
 
-Open the notebook in Google Colab or Jupyter Notebook
+Open the notebook in Google Colab or Jupyter Notebook.
 
 Install dependencies (if running locally):
 
